@@ -1,4 +1,4 @@
-{
+9{
     "language": "en",
     "keyActive": "",
     "DeveloperMode": false,
@@ -16,12 +16,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
+    "BOTNAME": "Abir Kando",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100000478146113",
-        "61576520552554",
-        "61550035211214"
+        "749545",
     ],
     "NDH": [
         "100000478146113"
